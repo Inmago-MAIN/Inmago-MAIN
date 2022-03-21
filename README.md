@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=MA:IN#%20render&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=random&height=300&section=header&text=MA:IN#%20render&fontSize=60)
 ## 📚 Introduce 📚
 - 인천전자마이스터고등학교 MDP MA:IN# Github 계정
 - 인마고 자체의 비대면 미팅 웹 사이트 & 익명 게시판 제작
